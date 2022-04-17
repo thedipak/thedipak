@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there👋, my name is Dipak
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**thedipak/thedipak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a React Developer with 4 years of experience. I specialize in React with JavaScript / TypeScript, Redux, Gatsby JS, HTML, CSS, Git, etc. I am passionate about user experience and clean code.
 
-Here are some ideas to get you started:
+My Favourite React Stack in 2022 ❤️ :
+• React with TypeScript
+• Redux toolkit
+• React Router
+• React-hook-form
+• Storybook for UI Components 
+• Jest with React Testing Library
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I read all my emails: thedipakkumaryadav@gmail.com
+
+Skills: React JS, JavaScript, TypeScript, Redux, HTML, CSS, etc.
+
+
+
+
