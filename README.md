@@ -1,5 +1,5 @@
 ### Hi there👋, my name is Dipak
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://github.com/thedipak/thedipak/blob/main/github%20wallpaper.png)
 
 I am a React Developer with 4 years of experience. I specialize in React with JavaScript / TypeScript, Redux, Gatsby JS, HTML, CSS, Git, etc. I am passionate about user experience and clean code.
 
